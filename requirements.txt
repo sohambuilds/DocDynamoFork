@@ -1,0 +1,8 @@
+PyPDF2
+langchain
+langchain_community
+chromadb
+langchain_groq
+groq
+tenacity==8.3.0
+streamlit==1.20.0
