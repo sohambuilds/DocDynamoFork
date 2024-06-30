@@ -10,7 +10,7 @@ from rouge import Rouge
 
 
 # Function to initialize conversation chain with GROQ language model
-groq_api_key = "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"
+groq_api_key = ""
 
 llm_groq=ChatGroq(model="llama3-8b-8192",
                   groq_api_key=groq_api_key)
